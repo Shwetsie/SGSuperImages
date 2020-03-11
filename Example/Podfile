@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGSuperImages_Example' do
+  pod 'SGSuperImages', :path => '../'
+
+  target 'SGSuperImages_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

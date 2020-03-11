@@ -1,0 +1,6 @@
+framework module SGSuperImages {
+  umbrella header "SGSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

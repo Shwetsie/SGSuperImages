@@ -1,0 +1,22 @@
+{
+  "name": "SGSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of SGSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Shweta G Krishnan/SGSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shweta G Krishnan": "shweta.g.krishnan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Shweta G Krishnan/SGSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGSuperImages/Classes/**/*"
+}
